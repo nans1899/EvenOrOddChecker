@@ -1,11 +1,4 @@
-package oddeventester;
 
-
-
-/**
- *
- * @author nanski
- */
 public class OddEvenTester {
 
     public static void main(String[] args) 
