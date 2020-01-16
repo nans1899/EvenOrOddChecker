@@ -1,12 +1,12 @@
 
 public class OddEvenTester {
 
-    public static void main(String[] args) 
+    public static void main(String[] args)
     {
        int angka;
-       perhitungan(25);
+       perhitungan(26);
     }
-    
+
     public static String perhitungan(int nilai){
         String pesan="", jumlah="";
 
@@ -24,5 +24,5 @@ public class OddEvenTester {
         System.out.println(pesan + jumlah);
         return pesan;
     }
-    
+
 }
