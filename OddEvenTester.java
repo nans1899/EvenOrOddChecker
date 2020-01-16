@@ -4,7 +4,7 @@ public class OddEvenTester {
     public static void main(String[] args) 
     {
        int angka;
-       perhitungan(20);
+       perhitungan(25);
     }
     
     public static String perhitungan(int nilai){
